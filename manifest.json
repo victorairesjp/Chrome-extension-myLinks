@@ -1,0 +1,12 @@
+{
+    "manifest_version": 3,
+    "version": "2.1",
+    "name": "My Links",
+    "action": {
+        "default_popup": "index.html",
+        "default_icon": "mylinks-icon.png"
+    },
+    "permissions": [
+        "tabs"
+    ]
+} 
